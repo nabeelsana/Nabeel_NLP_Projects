@@ -3,7 +3,8 @@ This is repository where I am storing different NLP related projects that are bu
 
 Project: LSTM_Text_Generation_End_To_End_Using_Tensorflow.ipynb
 
-This is an end to end pipe line for training an LSTM model usinhg Tensorflow and it various functions.
+This is an end to end pipe line for training an LSTM model using Tensorflow and it various functions.
+Entire setup is done in Google Colab environment.
 I have provided two data sets to experiment with and also two different LSTM models to train. 
 You can find various codes on Tensorflow and also on Github that perform same task , however unique thing about my code is that 
 in my quest to create an end to end piple line that only uses Tensorflow I have kept my code neat and clean using only Tensorflow.utils, Tensorflow.data.
