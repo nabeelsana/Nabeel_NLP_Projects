@@ -24,5 +24,7 @@ I have done data analysis using pandas. However entire data and prediction pipe 
 
 I have provided link to data repository on Kaggle. 
 
-Entire setup is done in Google Colab environment.
+Entire setup is done in Google Colab environment. 
+
+I am thankful to Valerio Velardo , whose cousre " Audio Signal Processing for Machine Learning" has enabled me to understand this area. Link to youtube course https://youtu.be/iCwMQJnKk2c?si=-8qpwELUi9IVw3yM
 
