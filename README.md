@@ -16,7 +16,7 @@ No where I have done any data conversion to numpy (except when producing output)
 
 This is kind of production level code that you would not necessary find elsewhere.
 
-2) Project: Voice to text using Tensorflow
+**2) Project: Voice to text using Tensorflow**
 
 There are three versions of this project which are mainly 3 different types of spectrographs Mel, MFCC and simple. 
 
