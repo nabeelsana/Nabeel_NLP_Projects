@@ -15,3 +15,14 @@ in my quest to create an end to end piple line that only uses Tensorflow I have 
 No where I have done any data conversion to numpy (except when producing output). Plus I have given a function to generate text also. 
 
 This is kind of production level code that you would not necessary find elsewhere.
+
+2) Project: Voice to text using Tensorflow
+
+There are three versions of this project which are mainly 3 different types of spectrographs Mel, MFCC and simple. 
+
+I have done data analysis using pandas. However entire data and prediction pipe line is build using pure Tensorflow code specifically Tensorflow.Data. 
+
+I have provided link to data repository on Kaggle. 
+
+Entire setup is done in Google Colab environment.
+
