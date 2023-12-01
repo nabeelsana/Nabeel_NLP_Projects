@@ -1,7 +1,7 @@
 # Nabeel_NLP_Projects
 This is repository where I am storing different NLP related projects that are build using Python &amp; Tensor flow
 
-Project: LSTM_Text_Generation_End_To_End_Using_Tensorflow.ipynb
+**1) Project: LSTM_Text_Generation_End_To_End_Using_Tensorflow.ipynb**
 
 This is an end to end pipe line for training an LSTM model using Tensorflow and it various functions.
 
